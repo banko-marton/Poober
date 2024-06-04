@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>pics/toilet_placeholder.jpg</file>
+        <file>login.qml</file>
+        <file>registration.qml</file>
+        <file>newwc.qml</file>
+    </qresource>
+</RCC>
